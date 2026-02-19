@@ -35,7 +35,7 @@
 		"@types/seedrandom": "^3.0.8",
 		"@vscode/codicons": "^0.0.36",
 		"@vscode/webview-ui-toolkit": "^1.4.0",
-		"axios": "^1.7.4",
+		"axios": "^1.13.5",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
 		"cmdk": "^1.0.0",
@@ -50,7 +50,7 @@
 		"knuth-shuffle-seeded": "^1.0.6",
 		"lru-cache": "^11.1.0",
 		"lucide-react": "^0.518.0",
-		"mermaid": "^11.4.1",
+		"mermaid": "^11.10.0",
 		"posthog-js": "^1.227.2",
 		"pretty-bytes": "^7.0.0",
 		"react": "^18.3.1",
@@ -106,10 +106,10 @@
 		"jest-environment-jsdom": "^29.7.0",
 		"jest-simple-dot-reporter": "^1.0.5",
 		"jsdom": "^26.0.0",
-		"storybook": "^8.4.7",
+		"storybook": "^8.6.15",
 		"ts-jest": "^29.2.5",
 		"typescript": "5.8.3",
-		"vite": "6.3.5",
+		"vite": "6.4.1",
 		"vitest": "^3.2.3"
 	}
 }
